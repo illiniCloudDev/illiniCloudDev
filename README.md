@@ -6,7 +6,7 @@
 ## I'm a Full Stack Software Engineer
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first AI Self Checkout Application.
-- 📚 I'm currently learning Algorhythms and AWS
+- 📚 I'm currently learning Algorithms and AWS
 - 📈 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything. ESPECIALLY STAR WARS ...
 
