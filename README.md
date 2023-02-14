@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Charlie! 
+<h1>  Hi there 👋, I'm Charlie! </h1>
 #### I'm a Software Engineer in Web Dev
 ![A Software Engineer in Web Dev](https://media.licdn.com/dms/image/D4E16AQEWRsJD4faHcw/profile-displaybackgroundimage-shrink_350_1400/0/1669680603695?e=1681948800&v=beta&t=46lA2JzRMtWdqt6Li_9C3OiJ8UtRTWHnypk5_dIJ-po)
 
