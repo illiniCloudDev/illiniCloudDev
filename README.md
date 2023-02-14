@@ -1,6 +1,6 @@
 ### Hello World, I'm Charlie  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="[https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" width="500" height="320" />
 
 
 ## I'm Full Stack Software Engineer
@@ -9,11 +9,10 @@
 - 🌱 I’m currently learning Algorhythms and AWS
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[linkedin](https://www.linkedin.com/in/charliecaneda/)]
 
 <br />
 
