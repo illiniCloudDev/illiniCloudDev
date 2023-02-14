@@ -1,6 +1,6 @@
 ### Hello World, I'm Charlie  👋
 
- <img align="right" alt="GIF" src="(https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="480" height="360" />
 
 
 ## I'm Full Stack Software Engineer
