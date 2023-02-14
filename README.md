@@ -8,9 +8,10 @@ Skills: MONGODB / EXPRESS / REACT / NODEJS / HTML5 / CSS3
 
 - 🔭 I’m currently working on this page. 
 <div class="card">
-                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80"
+ <h3> Other Tools: </h3> 
+                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80"
                             height="80" />
-                        <h2>GITHUB</h2>
+                        <h2>GIT</h2>
                         <p>I use this tool for publishing my works and projects in the repository, and also contributing
                             in open source projects.</p>
 
