@@ -14,7 +14,10 @@ Skills: MONGODB / EXPRESS / REACT / NODEJS / HTML5 / CSS3
                         <h2>GIT</h2>
                         <p>I use this tool for publishing my works and projects in the repository, and also contributing
                             in open source projects.</p>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                            alt="html5" width="80" height="80" />
+                        <h2>HTML</h2>
+                        <p>I use this language for creating Websites. </p>
 
 
  </div>
