@@ -7,6 +7,16 @@
 Skills: MONGODB / EXPRESS / REACT / NODEJS / HTML5 / CSS3
 
 - 🔭 I’m currently working on this page. 
+#### <div class="card">
+                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80"
+                            height="80" />
+                        <h2>GITHUB</h2>
+                        <p>I use this tool for publishing my works and projects in the repository, and also contributing
+                            in open source projects.</p>
+
+
+
+ </div>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/illiniCloudDev)  
