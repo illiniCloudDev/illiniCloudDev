@@ -16,8 +16,7 @@ Skills: MONGODB / EXPRESS / REACT / NODEJS / HTML5 / CSS3
                             in open source projects.</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                             alt="html5" width="80" height="80" />
-                        <h2>HTML</h2>
-                        <p>I use this language for creating Websites. </p>
+                        <h2>HTML</h2
 
 
  </div>
