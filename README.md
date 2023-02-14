@@ -3,12 +3,12 @@
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="480" height="360" />
 
 
-## I'm Full Stack Software Engineer
+## I'm a Full Stack Software Engineer
 - ✍ You can find my projects here https://canedatech.netlify.app/
-- 🔭 I’m currently working on my first UI AI Self Checkout Application.
-- 🌱 I’m currently learning Algorhythms and AWS
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 🔭 I’m currently working on my first AI Self Checkout Application.
+- 📚 I'm currently learning Algorhythms and AWS
+- 📈 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything. ESPECIALLY STAR WARS ...
 
 
 ### Talk with me, I am kinda awesome:
