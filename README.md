@@ -4,7 +4,7 @@
 
 
 ## I'm a Full Stack Software Engineer
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects [here]
 - 🔭 I’m currently working on my first AI Self Checkout Application.
 - 📚 I'm currently learning Algorithms and AWS
 - 📈 I’m looking to collaborate on open source
@@ -49,4 +49,4 @@
 
 [twitter]: https://twitter.com/illinidev
 [linkedin]: https://www.linkedin.com/in/charliecaneda/
-[portfolio]: https://canedatech.netlify.app/
+[here]: https://canedatech.netlify.app/
